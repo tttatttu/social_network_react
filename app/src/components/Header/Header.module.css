@@ -1,0 +1,17 @@
+.header {
+  grid-area: header;
+  background-color: rgb(246, 228, 228);
+  /* background-image: url('./img/header.jpg'); */
+  /* height: 300px; */
+  /* width: 100%; */
+
+}
+
+.header img {
+  width: 20px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,12 @@
+.button {
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #202117;
+padding: 12px 57px;
+border: 1px solid #202117;
+box-sizing: border-box;
+border-radius: 10px;
+}
