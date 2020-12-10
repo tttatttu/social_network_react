@@ -49,15 +49,8 @@ let store = {
     this._state.sidebar = sidebarReducer(this._state.sidebar, action);
 
     this._callSubscriber(this._state);
-
-    
-
   }
 }
-
-
-
-
 
 export default store;
 window.store = store;

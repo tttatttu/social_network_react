@@ -15,3 +15,12 @@
   display: flex;
   justify-content: space-between;
 }
+
+.loginBlock {
+  float: right;
+
+}
+
+.loginBlock a {
+  color: black;
+}
