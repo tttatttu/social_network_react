@@ -4,7 +4,7 @@ import headerImg from "../../img/header.png";
 import Nav from "./Nav/Nav";
 import { NavLink } from "react-router-dom";
 
-const Header = (props) => {
+const Header = ({login, logout, isAuth, ...props}) => {
   return (
     <header
       className={classes.header}
@@ -12,10 +12,10 @@ const Header = (props) => {
       
     >
       <img src="https://toplogos.ru/images/logo-crocs.png" />
-      <Nav />
+      {/* <Nav /> */}
       <div className={classes.loginBlock}>
-        { props.isAuth 
-        ? <div>{props.login} - <button onClick={props.logout}>Log out</button></div>
+        { isAuth 
+        ? <div>{login} - <button onClick={logout}>Log out</button></div>
           : <NavLink to={'/login'}>Login</NavLink>
         }
       </div>

@@ -1,10 +1,12 @@
 .header {
   grid-area: header;
   background-color: rgb(246, 228, 228);
-  /* background-image: url('./img/header.jpg'); */
-  /* height: 300px; */
-  /* width: 100%; */
-
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  width: 100%;
+  font-size: 20px;
 }
 
 .header img {
@@ -18,7 +20,6 @@
 
 .loginBlock {
   float: right;
-
 }
 
 .loginBlock a {
