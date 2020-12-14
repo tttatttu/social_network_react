@@ -16,8 +16,6 @@ import { Provider } from "react-redux";
 import { withSuspense } from "./hoc/withSuspense";
 import Articles from "./components/Profile/Articles/Articles";
 
-// import DialogsContainer from "./components/Dialogs/DialogsContainer";
-// import ProfileContainer from "./components/Profile/ProfileContainer";
 const DialogsContainer = React.lazy(() =>
   import("./components/Dialogs/DialogsContainer")
 );
@@ -66,11 +64,11 @@ let AppContainer = compose(
 
 const MainApp = () => {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Provider store={store}>
         <AppContainer />
       </Provider>
-    </HashRouter>
+    </BrowserRouter>
   );
 };
 

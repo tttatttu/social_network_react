@@ -5,7 +5,7 @@ import MyPostsContainer from "./MyPosts/MyPostsContainer";
 import ProfileContainer from "./ProfileContainer";
 import ProfileInfo from "./ProfileInfo/ProfileInfo";
 
-const Profile = ({ profile, status, updateStatus }) => {
+const Profile = ({ profile, status, updateStatus, isOwner, savePhoto, saveProfile}) => {
   return (
     <div className={classes.profile}>
       {/* <Articles /> */}
@@ -14,7 +14,14 @@ const Profile = ({ profile, status, updateStatus }) => {
         <div className={classes.item}>w</div>
       </div> */}
       {/* <ProfileContainer /> */}
-      <ProfileInfo profile={profile} status={status} updateStatus={updateStatus} />
+      <ProfileInfo
+        profile={profile}
+        status={status}
+        updateStatus={updateStatus}
+        isOwner={isOwner}
+        savePhoto={savePhoto}
+        saveProfile={saveProfile}
+      />
       <MyPostsContainer />
     </div>
   );
