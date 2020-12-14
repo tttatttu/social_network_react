@@ -3,6 +3,7 @@
   "homepage": "https://github.com/tttatttu/social_network_react",
   "version": "0.0.1",
   "description": "social network react",
+  "private": true,
   "baseUrl": "./src",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
