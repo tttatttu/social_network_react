@@ -4,10 +4,20 @@
 
 ### Проект выполнен при изучении курса "React"
 
+Библиотека загружена из репозитория [Create React App](https://github.com/facebook/create-react-app).
+
+> Данные для входа:
+
+```
+  * логин: free@samuraijs.com
+  * пароль: free
+```
+
+
 > Стэк
 
 ```
- HTML5, CSS3, ES6, React, Redux
+  React, Redux
 ```
 
 > Скачать или склонировать репозиторий и установить зависимости при помощи npm 
