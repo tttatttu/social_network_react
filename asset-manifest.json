@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/tttatttu/social_network_react/static/css/main.f54639e9.chunk.css",
+    "main.js": "/tttatttu/social_network_react/static/js/main.03830757.chunk.js",
+    "main.js.map": "/tttatttu/social_network_react/static/js/main.03830757.chunk.js.map",
+    "runtime-main.js": "/tttatttu/social_network_react/static/js/runtime-main.099a9cd1.js",
+    "runtime-main.js.map": "/tttatttu/social_network_react/static/js/runtime-main.099a9cd1.js.map",
+    "static/js/2.3a709d3c.chunk.js": "/tttatttu/social_network_react/static/js/2.3a709d3c.chunk.js",
+    "static/js/2.3a709d3c.chunk.js.map": "/tttatttu/social_network_react/static/js/2.3a709d3c.chunk.js.map",
+    "static/css/3.80e88435.chunk.css": "/tttatttu/social_network_react/static/css/3.80e88435.chunk.css",
+    "static/js/3.d4ef8426.chunk.js": "/tttatttu/social_network_react/static/js/3.d4ef8426.chunk.js",
+    "static/js/3.d4ef8426.chunk.js.map": "/tttatttu/social_network_react/static/js/3.d4ef8426.chunk.js.map",
+    "static/css/4.066b3fef.chunk.css": "/tttatttu/social_network_react/static/css/4.066b3fef.chunk.css",
+    "static/js/4.de46cdab.chunk.js": "/tttatttu/social_network_react/static/js/4.de46cdab.chunk.js",
+    "static/js/4.de46cdab.chunk.js.map": "/tttatttu/social_network_react/static/js/4.de46cdab.chunk.js.map",
+    "index.html": "/tttatttu/social_network_react/index.html",
+    "precache-manifest.0a5fc90f68406b7bf8402d67adf27e89.js": "/tttatttu/social_network_react/precache-manifest.0a5fc90f68406b7bf8402d67adf27e89.js",
+    "service-worker.js": "/tttatttu/social_network_react/service-worker.js",
+    "static/css/3.80e88435.chunk.css.map": "/tttatttu/social_network_react/static/css/3.80e88435.chunk.css.map",
+    "static/css/4.066b3fef.chunk.css.map": "/tttatttu/social_network_react/static/css/4.066b3fef.chunk.css.map",
+    "static/css/main.f54639e9.chunk.css.map": "/tttatttu/social_network_react/static/css/main.f54639e9.chunk.css.map",
+    "static/js/2.3a709d3c.chunk.js.LICENSE.txt": "/tttatttu/social_network_react/static/js/2.3a709d3c.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/tttatttu/social_network_react/static/media/avatar.c4a736c1.png",
+    "static/media/header.png": "/tttatttu/social_network_react/static/media/header.5695df73.png",
+    "static/media/loader.gif": "/tttatttu/social_network_react/static/media/loader.12a1921a.gif",
+    "static/media/mask_1.jpg": "/tttatttu/social_network_react/static/media/mask_1.4a003246.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.099a9cd1.js",
+    "static/js/2.3a709d3c.chunk.js",
+    "static/css/main.f54639e9.chunk.css",
+    "static/js/main.03830757.chunk.js"
+  ]
+}
