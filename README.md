@@ -1,4 +1,5 @@
-# [Социальная сеть React](https://tttatttu.github.io/social_network_react)
+# [Социальная сеть React](https://tttatttu.github.io/social_network_react) **
+** для просмотра проекта, кликните на название
 
 ## Версия 0.0.1
 
